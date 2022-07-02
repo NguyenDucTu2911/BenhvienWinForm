@@ -1,0 +1,416 @@
+C:\Users\ACER\source\repos\benhvien\benhvien\bin\Debug\benhvien.exe.config
+C:\Users\ACER\source\repos\benhvien\benhvien\bin\Debug\benhvien.exe
+C:\Users\ACER\source\repos\benhvien\benhvien\bin\Debug\benhvien.pdb
+C:\Users\ACER\source\repos\benhvien\benhvien\bin\Debug\Guna.UI2.dll
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.csproj.SuggestedBindingRedirects.cache
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.Frmdangnhap.resources
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.Properties.Resources.resources
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.csproj.GenerateResource.cache
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.csproj.CopyComplete
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.exe
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.pdb
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.Frmquanly.resources
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.quanlytaikhoan.resources
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.Frmbacsi.resources
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.Frmbenhnhan.resources
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.Frmtrang_chu.resources
+C:\Users\ACER\source\repos\benhvien\benhvien\obj\Debug\benhvien.Frmxetnghiem.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.csproj.AssemblyReference.cache
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.csproj.SuggestedBindingRedirects.cache
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.Frmbacsi.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.Frmbenhnhan.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.Frmdangnhap.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.Frmquanly.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.Frmtrang_chu.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.FrmQuanLyBN.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.FrmQuanLyBS.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.Frmxetnghiem.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.Properties.Resources.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.quanlytaikhoan.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.csproj.GenerateResource.cache
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.csproj.CoreCompileInputs.cache
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.exe
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.pdb
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\benhvien.exe.config
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\benhvien.exe
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\benhvien.pdb
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\EntityFramework.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Guna.UI2.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\EntityFramework.xml
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.csproj.CopyComplete
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\EnvDTE.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\stdole.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Microsoft.MSXML.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.FrmReportBS.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Report\ReportBacSi.rdlc
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Report\ReportBacSiTheoKhoa.rdlc
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Report\ReportThongKeBenhNhan.rdlc
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.FrmReportBN.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\Report\ReportInPhieuXN.rdlc
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.FrmReportInPhieuXN.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\obj\Debug\benhvien.FrmDonThuoc.resources
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\huyph\Documents\Đồ Án Cơ Sở\benhvien\benhvien\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Report\ReportBacSi.rdlc
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Report\ReportBacSiTheoKhoa.rdlc
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Report\ReportInPhieuXN.rdlc
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Report\ReportThongKeBenhNhan.rdlc
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\benhvien.exe.config
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\benhvien.exe
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\benhvien.pdb
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\DevComponents.DotNetBar2.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\EntityFramework.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Guna.UI2.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\EnvDTE.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\stdole.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.MSXML.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\EntityFramework.xml
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.csproj.AssemblyReference.cache
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmbacsi.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmbenhnhan.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmdangnhap.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmDonThuoc.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmquanly.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmtrang_chu.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmQuanLyBN.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmQuanLyBS.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmReportBN.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmReportBS.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmReportInPhieuXN.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmReportKetQuaKham.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmxetnghiem.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.Properties.Resources.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.quanlytaikhoan.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.csproj.GenerateResource.cache
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.csproj.CoreCompileInputs.cache
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.csproj.CopyComplete
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.exe
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.pdb
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Report\ReportKetQuaKham.rdlc
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmThuPhi.resources
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\RdlCompile.cache
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\obj\Debug\RdlCompile.compiled
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\log4net.dll
+C:\Users\huyph\Desktop\benhvien\benhvien\benhvien\bin\Debug\log4net.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.csproj.AssemblyReference.cache
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmbacsi.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmbenhnhan.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmdangnhap.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmDonThuoc.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmquanly.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmtrang_chu.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmQuanLyBN.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmQuanLyBS.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmReportBN.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmReportBS.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmReportInPhieuXN.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmReportKetQuaKham.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.FrmThuPhi.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.Frmxetnghiem.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.Properties.Resources.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.quanlytaikhoan.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.csproj.GenerateResource.cache
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.csproj.CoreCompileInputs.cache
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.exe
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.pdb
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Report\ReportBacSi.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Report\ReportBacSiTheoKhoa.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Report\ReportInPhieuXN.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Report\ReportKetQuaKham.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Report\ReportThongKeBenhNhan.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\benhvien.exe.config
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\benhvien.exe
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\benhvien.pdb
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\EntityFramework.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Guna.UI2.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\log4net.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\EnvDTE.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\stdole.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\EntityFramework.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\log4net.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\benhvien\benhvien\obj\Debug\benhvien.csproj.CopyComplete
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.csproj.AssemblyReference.cache
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.Frmbacsi.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.Frmbenhnhan.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.Frmdangnhap.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.FrmDonThuoc.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.Frmquanly.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.Frmtrang_chu.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.FrmQuanLyBN.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.FrmQuanLyBS.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.FrmReportBN.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.FrmReportBS.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.FrmReportInPhieuXN.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.FrmReportKetQuaKham.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.FrmThuPhi.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.Frmxetnghiem.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.Properties.Resources.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.quanlytaikhoan.resources
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.csproj.GenerateResource.cache
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.csproj.CoreCompileInputs.cache
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.exe
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.pdb
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\SqlServerTypes\x64\msvcr120.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\SqlServerTypes\x64\SqlServerSpatial140.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\SqlServerTypes\x86\msvcr120.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\SqlServerTypes\x86\SqlServerSpatial140.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Report\ReportBacSi.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Report\ReportBacSiTheoKhoa.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Report\ReportInPhieuXN.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Report\ReportKetQuaKham.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Report\ReportThongKeBenhNhan.rdlc
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\benhvien.exe.config
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\benhvien.exe
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\benhvien.pdb
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\AxShockwaveFlashObjects.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\CrystalDecisions.ReportSource.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\CrystalDecisions.Windows.Forms.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\EntityFramework.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Guna.UI2.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\log4net.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.Common.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.DataVisualization.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.Design.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.ProcessingObjectModel.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.SqlServer.Types.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\EnvDTE.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.Shell.Interop.8.0.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\stdole.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.OLE.Interop.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.VisualStudio.TextManager.Interop.8.0.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\Microsoft.MSXML.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\DevComponents.DotNetBar2.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\EntityFramework.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\log4net.xml
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Common.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.DataVisualization.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.Design.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\de\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\es\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\fr\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\it\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ja\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ko\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\pt\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\ru\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\zh-CHS\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\bin\Debug\zh-CHT\Microsoft.ReportViewer.WinForms.resources.dll
+C:\Users\NITRO-5\Desktop\benhvien\benhvien\obj\Debug\benhvien.csproj.CopyComplete
